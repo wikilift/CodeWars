@@ -1,0 +1,15 @@
+C:\Users\crist\Desktop\csIDE\codewars\bin\Debug\net6.0\codewars.exe
+C:\Users\crist\Desktop\csIDE\codewars\bin\Debug\net6.0\codewars.deps.json
+C:\Users\crist\Desktop\csIDE\codewars\bin\Debug\net6.0\codewars.runtimeconfig.json
+C:\Users\crist\Desktop\csIDE\codewars\bin\Debug\net6.0\codewars.dll
+C:\Users\crist\Desktop\csIDE\codewars\bin\Debug\net6.0\ref\codewars.dll
+C:\Users\crist\Desktop\csIDE\codewars\bin\Debug\net6.0\codewars.pdb
+C:\Users\crist\Desktop\csIDE\codewars\obj\Debug\net6.0\codewars.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\csIDE\codewars\obj\Debug\net6.0\codewars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Desktop\csIDE\codewars\obj\Debug\net6.0\codewars.AssemblyInfoInputs.cache
+C:\Users\crist\Desktop\csIDE\codewars\obj\Debug\net6.0\codewars.AssemblyInfo.cs
+C:\Users\crist\Desktop\csIDE\codewars\obj\Debug\net6.0\codewars.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\csIDE\codewars\obj\Debug\net6.0\codewars.dll
+C:\Users\crist\Desktop\csIDE\codewars\obj\Debug\net6.0\ref\codewars.dll
+C:\Users\crist\Desktop\csIDE\codewars\obj\Debug\net6.0\codewars.pdb
+C:\Users\crist\Desktop\csIDE\codewars\obj\Debug\net6.0\codewars.genruntimeconfig.cache
