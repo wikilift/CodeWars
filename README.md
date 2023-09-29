@@ -35,9 +35,13 @@ git clone https://github.com/yourusername/codewars-solutions.git
 ## Usage / Uso
 
 # Navigate to the language directory and run the solution file
+- example:
+- cd python
+- python3 solution.py
 # Navega al directorio del lenguaje y ejecuta el archivo de solución
-cd python
-python3 solution.py
+- ejemplo
+- cd py 
+- python3 solution.py
 
 ## Contributing / Contribuir
 Feel free to fork the repository, star it, and open pull requests or issues for any improvements or fixes you'd like to contribute.  
