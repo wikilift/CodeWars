@@ -1,4 +1,5 @@
-![CodeWars Badge](https://www.codewars.com/users/Wikilift/badges/large)
+[![CodeWars Badge](https://www.codewars.com/users/Wikilift/badges/large)](https://www.codewars.com/users/Wikilift)
+
 
 # CodeWars: Solved Katas in Multiple Languages 🚀
 
