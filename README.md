@@ -1,3 +1,5 @@
+![CodeWars Badge](https://www.codewars.com/users/Wikilift/badges/large)
+
 # CodeWars: Solved Katas in Multiple Languages 🚀
 
 ## 📝 Description
