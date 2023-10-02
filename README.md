@@ -11,6 +11,7 @@ This repository contains my solutions to various coding challenges (katas) from 
 - Python 🐍
 - C++ 🛠️
 - C# 🌐
+- Dart 🎯
 - ...and more!
 
 ---
