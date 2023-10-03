@@ -7,3 +7,7 @@ def partitions(n):
         for j in range(i, n + 1):
             dp[j] += dp[j - i]
     return dp[n]
+
+
+
+    

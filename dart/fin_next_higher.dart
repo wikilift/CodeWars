@@ -1,9 +1,9 @@
 //https://www.codewars.com/kata/56bdd0aec5dc03d7780010a5/train/dart
 
 int nextHigher(int n) {
-  int countBits(int x) => x.toRadixString(2).split('').where((bit) => bit == '1').length;
-  int bits = countBits(n);
-  while (countBits(++n) != bits);
+  int evaluateBits(int x) => x.toRadixString(2).split('').where((bit) => bit == '1').length;
+  int data = evaluateBits(n);
+  while (evaluateBits(++n) != data);
   return n;
 }
 
