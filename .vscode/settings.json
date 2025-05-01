@@ -49,5 +49,6 @@
         "cinttypes": "cpp",
         "typeinfo": "cpp"
     },
-    "C_Cpp.default.compilerPath": "/usr/bin/g++"
+    "C_Cpp.default.compilerPath": "/usr/bin/g++",
+    "idf.pythonInstallPath": "/usr/local/opt/python@3.12/Frameworks/Python.framework/Versions/3.12/bin/python3"
 }
